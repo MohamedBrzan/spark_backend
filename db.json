@@ -13,6 +13,16 @@
         "old": 250,
         "new": 99
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -28,6 +38,16 @@
         "old": 400,
         "new": 199
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -43,6 +63,16 @@
         "old": 400,
         "new": 199
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -58,6 +88,16 @@
         "old": 400,
         "new": 199
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -73,6 +113,16 @@
         "old": 899,
         "new": 399
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -88,6 +138,16 @@
         "old": 599,
         "new": 199
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -103,6 +163,16 @@
         "old": 799,
         "new": 399
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -118,6 +188,16 @@
         "old": 199,
         "new": 50
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -133,6 +213,16 @@
         "old": 799,
         "new": 399
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -148,6 +238,16 @@
         "old": 199,
         "new": 50
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -163,6 +263,16 @@
         "old": 799,
         "new": 399
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     },
     {
@@ -178,6 +288,16 @@
         "old": 199,
         "new": 50
       },
+      "reviews": [
+        {
+          "user": {
+            "name": "Mohamed Mahmoud",
+            "email": "mohamed@gmail.com"
+          },
+          "rating": 2,
+          "comment": "this product is normal"
+        }
+      ],
       "count": 10
     }
   ],
